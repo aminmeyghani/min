@@ -1,0 +1,19 @@
+{
+  "name": "min",
+  "version": "1.0.0",
+  "description": "Micro css framework",
+  "main": "compiledcss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminmeyghani/min.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminmeyghani/min/issues"
+  },
+  "homepage": "https://github.com/aminmeyghani/min#readme"
+}
